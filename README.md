@@ -1,5 +1,5 @@
 <h1 align='center' style='margin-top: 10px;'>GTCOMP</h1>
-<h5 align='center'>Grupo de Treinamento para Maratonas de Programação</h5>
+<h4 align='center'>Grupo de Treinamento para Maratonas de Programação</h4>
 
 Seja bem-vindo(a) ao _GTCOMP_ aqui você encontra muito conteúdo relacionado a programação e, principalmente, voltado a preparação para as maratonas de programação.
 
@@ -9,7 +9,7 @@ Caso esse seja seu primeiro acesso ao repositório do GTCOMP siga os passos cont
 
 [GTCOMP Quickstart]()
 
-**Links Úteis:**
+## Links Úteis
 
 - [GTCOMP Wiki]()
 - [Grupo do WhatsApp]()

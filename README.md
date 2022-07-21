@@ -8,10 +8,9 @@ Seja bem-vindo(a) ao **_GTCOMP_** aqui você encontra muito conteúdo relacionad
 
 Caso esse seja seu primeiro acesso ao repositório do GTCOMP siga os passos contidos no link a seguir para poder utilizá-lo de maneira correta.
 
-[GTCOMP Quickstart]()
+[GTCOMP Wiki](https://github.com/gtcomp/gtcomp/wiki)
 
 ## Links Úteis
 
-- [GTCOMP Wiki]()
 - [Grupo do WhatsApp](https://chat.whatsapp.com/Haq6wPyAJ7f4uyN3Fedicl)
 - [Maratona SBC - Site Oficial](http://maratona.sbc.org.br/)

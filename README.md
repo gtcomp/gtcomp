@@ -12,5 +12,4 @@ Caso esse seja seu primeiro acesso ao repositório do GTCOMP siga os passos cont
 
 ## Links Úteis
 
-- [Grupo do WhatsApp](https://chat.whatsapp.com/Haq6wPyAJ7f4uyN3Fedicl)
 - [Maratona SBC - Site Oficial](http://maratona.sbc.org.br/)

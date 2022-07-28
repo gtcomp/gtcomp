@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-<img src="./assets/gtcomp_logo.png" width="200px" />
+<img src="./assets/gtcomp_logo.png" width="500rem" />
 </div>
 <br>
 
